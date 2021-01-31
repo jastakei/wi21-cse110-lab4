@@ -1,1 +1,2 @@
-# wi21-cse110-lab4
+Jasmine Takei
+jtakei@ucsd.edu
